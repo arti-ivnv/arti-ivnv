@@ -1,4 +1,4 @@
-![image](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.jpg?raw=true)
+![image](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.png?raw=true)
 ### Hi there 👋
 
 <!--
