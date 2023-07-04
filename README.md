@@ -23,7 +23,7 @@ I'm identified as a Junior Software Engineer 💻!
 • Location: Orlando, FL<br>
 <br>
 👨‍💻 <u>Companies I worked at</u><br>
-• <a href="https://apkpro.ru/">Academy of the Ministry of Education of Russia</a> <br>
+• <a href="https://en.apkpro.ru/">Academy of the Ministry of Education of Russia</a> <br>
 • <a href="https://iplcompany.ru/">Digitally</a><br>
 • <a href="https://power.mhi.com/">Mitsubishi Power</a><br>
 • <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a><br>
