@@ -96,7 +96,7 @@ Design and project management:
 <br>
 and <b>some more</b>.
 
-Also would love to mention is ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) but also FSCrawler, Kibana.
+Also would love to mention ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) and also FSCrawler, Kibana.
 
 ##
 [![](https://visitcount.itsvg.in/api?id=arti-ivnv&icon=0&color=0)](https://visitcount.itsvg.in)
