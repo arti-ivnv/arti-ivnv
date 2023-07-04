@@ -1,7 +1,9 @@
 ![banner](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.png?raw=true)
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Yu Shi | Instagram" width="120px"/></a>
+<h1 align="center">
+  <a href="https://instagram.com/yushi.95"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Yu Shi | Instagram" width="120px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | Instagram" width="120px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | Instagram" width="120px"/></a>
+</h1>
 
 
 ### Hi there 👋
