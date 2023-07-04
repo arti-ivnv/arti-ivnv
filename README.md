@@ -1,5 +1,5 @@
 ![banner](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.png?raw=true)
-<a href=”https://www.linkedin.com/in/yushi95/">![image](https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg)</a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&layout=compact)
