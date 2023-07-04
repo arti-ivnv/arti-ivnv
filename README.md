@@ -10,7 +10,7 @@ Hi there, I'm Arti</a> 👋
 </h1>
 
 <h3 align="center">
-I'm identified as a Software Engineer 💻!
+and I'm a Software Engineer 💻!
 </h3> 
 
 
