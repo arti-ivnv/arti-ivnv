@@ -1,5 +1,5 @@
 ![banner](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.png?raw=true)
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Yu Shi | LinkedIn" width="400px"/></a>
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&layout=compact)
