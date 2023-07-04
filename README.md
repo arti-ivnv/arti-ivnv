@@ -18,7 +18,7 @@ and I'm a Software Engineer 💻!
 
 🏫 <u>School</u><br>
 • Name: <a href="https://www.ucf.edu/">University of Central Florida<a><br>
-• Degree: BS of Computer Science<br>
+• Degree: BS in Computer Science<br>
 • Graduation date: December 2021<br>
 • Location: Orlando, FL<br>
 <br>
