@@ -40,7 +40,7 @@ and I'm a Software Engineer 💻!
 ## 💻 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&theme=dark&layout=compact)
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend)](https://roadmap.sh)
 
 -
 ## ⚙ Tech Stack (used and tried):
