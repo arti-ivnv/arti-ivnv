@@ -40,7 +40,6 @@ and I'm a Software Engineer 💻!
 ## 💻 Stats
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend)](https://roadmap.sh)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&theme=dark&layout=compact)
 
 
