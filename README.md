@@ -29,12 +29,12 @@ and I'm a Software Engineer 💻!
 • <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a><br>
 <br>
 💡<u>Passionate about</u><br>
-• Java Development<br>
-• C/C++ Development<br>
-• Game Development<br>
-• Embedded Engineering<br>
-• Backend Development<br>
-• Math and Physics<br>
+• Java Development <br>
+• C/C++ Development <br>
+• Game Development <br>
+• Embedded Engineering <br>
+• Backend Development <br>
+• Math and Physics <br>
 
 
 ## 💻 Stats
