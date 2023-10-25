@@ -1,4 +1,3 @@
-![banner](https://github.com/arti-ivnv/arti-ivnv/blob/main/assets/header.png?raw=true)
 <div align="center">
 <a href="https://telegram.me/FoxyHikka/"><img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Artem Ivnanov | Telegram" width="120px"/></a>
 <a href="https://www.instagram.com/arti_ivnv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Artem Ivnanov | Instagram" width="131px"/></a>
