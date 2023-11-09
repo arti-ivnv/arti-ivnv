@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://telegram.me/FoxyHikka/"><img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Artem Ivnanov | Telegram" width="120px"/></a><br>
-<a href="https://www.instagram.com/arti_ivnv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Artem Ivnanov | Instagram" width="131px"/></a><br>
+<!-- <a href="https://www.instagram.com/arti_ivnv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Artem Ivnanov | Instagram" width="131px"/></a><br> -->
 <a href="https://linkedin.com/in/artem-ivanov-9815a2172"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Artem Ivnanov | LinkedIn" width="120px"/></a><br>
 </div>
 
