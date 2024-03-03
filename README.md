@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/arti-ivnv/arti-ivnv/blob/e7358ded0acf6342a3d64b30ed87e784f66e4264/assets/waneella%20_%20Patreon.gif" width="100%" alt="Banner">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!" width="72%" />
+  <img src="https://github.com/arti-ivnv/arti-ivnv/blob/e7358ded0acf6342a3d64b30ed87e784f66e4264/assets/waneella%20_%20Patreon.gif" width="100%" alt="Banner">
   <br><br>
 <pre>
 🏫 <u>School</u>
