@@ -4,8 +4,7 @@
   <br><br>
 </div>
 
-<div>
-  <pre>
+<pre>
 🏫 <u>School</u>
 • Name: <a href="https://www.ucf.edu/">University of Central Florida<a>
 • Degree: BS in Computer Science
@@ -30,3 +29,11 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <br><br><br>
 </pre>
+
+## 💻 Stats
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend)](https://roadmap.sh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&theme=dark&layout=compact)
+
+
+
