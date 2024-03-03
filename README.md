@@ -6,7 +6,7 @@
 
 <div>
   <pre>
-🏫 <u>School</u><br>
+🏫 <u>School</u>
 • Name: <a href="https://www.ucf.edu/">University of Central Florida<a>
 • Degree: BS in Computer Science
 • Graduation date: December 2021
