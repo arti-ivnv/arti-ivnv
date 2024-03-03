@@ -7,25 +7,25 @@
 <div>
   <pre>
 🏫 <u>School</u><br>
-• Name: <a href="https://www.ucf.edu/">University of Central Florida<a><br>
-• Degree: BS in Computer Science<br>
-• Graduation date: December 2021<br>
-• Location: Orlando, FL<br>
+• Name: <a href="https://www.ucf.edu/">University of Central Florida<a>
+• Degree: BS in Computer Science
+• Graduation date: December 2021
+• Location: Orlando, FL
 <br>
-👨‍💻 <u>Companies I work(ed) at</u><br>
-• <a href="https://ppr.ru/en/">Software Product</a> <br>
-• <a href="https://en.apkpro.ru/">Academy of the Ministry of Education of Russia</a> <br>
-• <a href="https://iplcompany.ru/">Digitally</a><br>
-• <a href="https://power.mhi.com/">Mitsubishi Power</a><br>
-• <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a><br>
+👨‍💻 <u>Companies I work(ed) at</u>
+• <a href="https://ppr.ru/en/">Software Product</a>
+• <a href="https://en.apkpro.ru/">Academy of the Ministry of Education of Russia</a>
+• <a href="https://iplcompany.ru/">Digitally</a>
+• <a href="https://power.mhi.com/">Mitsubishi Power</a>
+• <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a>
 <br>
-💡<u>Passionate about</u><br>
-• Java Development <br>
-• C/C++ Development <br>
-• Game Development <br>
-• Embedded Engineering <br>
-• Backend Development <br>
-• Math and Physics <br>
+💡<u>Passionate about</u>
+• Java Development
+• C/C++ Development
+• Game Development
+• Embedded Engineering
+• Backend Development
+• Math and Physics
   <br><br>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <br><br><br>
