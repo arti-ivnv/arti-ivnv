@@ -5,12 +5,12 @@
 
   <pre>
       🏫 <u>School</u><br>
-      <div align="center">
+      <p align="center">
         • Name: <a href="https://www.ucf.edu/">University of Central Florida<a><br>
         • Degree: BS in Computer Science<br>
         • Graduation date: December 2021<br>
         • Location: Orlando, FL<br>
-      </div>
+      </p>
       <br>
       👨‍💻 <u>Companies I work(ed) at</u><br>
       • <a href="https://ppr.ru/en/">Software Product</a> <br>
