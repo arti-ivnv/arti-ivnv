@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/arti-ivnv/arti-ivnv/blob/f3552c36ecbaf6710aa5e3231d727b9ce232cad8/assets/side.png" width="25%" height="80%" align="right" />
+  <img src="https://github.com/arti-ivnv/arti-ivnv/blob/f3552c36ecbaf6710aa5e3231d727b9ce232cad8/assets/side.png" width="25%" height="10%" align="right" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!" width="72%" />
   <br><br>
 </div>
