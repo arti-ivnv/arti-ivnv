@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/arti-ivnv/arti-ivnv/blob/2ca85386ff408db345afdd36155de9442869fba1/assets/download.png" width="25%" align="right" />
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!;I+hope+you+will+enjoy+my+github+page!" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!;I+hope+you+will+enjoy+my+github+page!" width="72%" />
   <br><br>
 </div>
 
