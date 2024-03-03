@@ -16,6 +16,7 @@
 • Location: Orlando, FL<br>
 <br>
 👨‍💻 <u>Companies I worked at</u><br>
+• <a href="https://ppr.ru/en/">Software Product <-- (Currently)</a> <br>
 • <a href="https://en.apkpro.ru/">Academy of the Ministry of Education of Russia</a> <br>
 • <a href="https://iplcompany.ru/">Digitally</a><br>
 • <a href="https://power.mhi.com/">Mitsubishi Power</a><br>
