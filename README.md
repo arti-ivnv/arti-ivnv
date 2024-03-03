@@ -25,7 +25,6 @@
 • Embedded Engineering
 • Backend Development
 • Math and Physics
-<br><br>
 </pre>
 
 ## 💻 Stats
