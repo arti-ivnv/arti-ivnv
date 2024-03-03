@@ -18,16 +18,14 @@
 • <a href="https://power.mhi.com/">Mitsubishi Power</a>
 • <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a>
 <br>
-💡<u>Passionate about</u>
+💡 <u>Passionate about</u>
 • Java Development
 • C/C++ Development
 • Game Development
 • Embedded Engineering
 • Backend Development
 • Math and Physics
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br><br>
+<br><br>
 </pre>
 
 ## 💻 Stats
