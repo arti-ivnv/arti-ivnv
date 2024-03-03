@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/arti-ivnv/arti-ivnv/blob/2ca85386ff408db345afdd36155de9442869fba1/assets/download.png" width="25%" align="right" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!;I+hope+you+will+enjoy+my+github+page!)](https://git.io/typing-svg)
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
   <br><br>
 
