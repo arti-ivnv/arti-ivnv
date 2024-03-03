@@ -25,6 +25,8 @@
 • Embedded Engineering
 • Backend Development
 • Math and Physics
+
+<a href="https://linkedin.com/in/artem-ivanov-9815a2172"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Artem Ivnanov | LinkedIn" width="120px"/></a>
 </pre>
 
 ## 💻 Stats
