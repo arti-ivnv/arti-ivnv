@@ -1,15 +1,27 @@
-<div>
+<div align="center">
   <img src="https://github.com/arti-ivnv/arti-ivnv/blob/2ca85386ff408db345afdd36155de9442869fba1/assets/download.png" width="25%" align="right" />
-</div>
-<br>
-<br>
-<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+  <br><br>
+
+  <div>
   
   ## 📞 Contact me:
   
   <a href="https://telegram.me/FoxyHikka/"><img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Artem Ivnanov | Telegram" width="120px"/></a><br>
   <!-- <a href="https://www.instagram.com/arti_ivnv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Artem Ivnanov | Instagram" width="131px"/></a><br> -->
   <a href="https://linkedin.com/in/artem-ivanov-9815a2172"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Artem Ivnanov | LinkedIn" width="120px"/></a><br>
+</div>
+
+  <pre>
+      💼 BSC @ UFMG • Back-end dev • Platform Engineer
+      💻 System programming languages • DevOps 
+      📖 Software architecture • Distributed systems
+      🎮 Music • Games • Anime • Code • Art
+      🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+  </pre>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <br><br><br>
 </div>
 
 ## 💫 About Me:
