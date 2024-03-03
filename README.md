@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FFB&random=false&width=435&lines=Hi!+My+name+is+Arti!;I+am+a+Software+Engineer!" width="72%" />
   <img src="https://github.com/arti-ivnv/arti-ivnv/blob/e7358ded0acf6342a3d64b30ed87e784f66e4264/assets/waneella%20_%20Patreon.gif" width="100%" alt="Banner">
   <br><br>
+</div>
 <pre>
 🏫 <u>School</u>
 • Name: <a href="https://www.ucf.edu/">University of Central Florida<a>
@@ -27,8 +28,6 @@
 📧 Contact me
 <a href="https://linkedin.com/in/artem-ivanov-9815a2172"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Artem Ivnanov | LinkedIn" width="120px"/></a> <a href="https://telegram.me/FoxyHikka/"><img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Artem Ivnanov | Telegram" width="120px"/></a> <a href="https://www.instagram.com/arti_ivnv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Artem Ivnanov | Instagram" width="131px"/></a>
 </pre>
-
-</div>
 
 ## 💻 Stats
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend)](https://roadmap.sh)
