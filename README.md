@@ -1,8 +1,7 @@
-![Header image](https://github.com/arti-ivnv/arti-ivnv/blob/2ca85386ff408db345afdd36155de9442869fba1/assets/download.png)
-
 <div>
   <img src="https://github.com/arti-ivnv/arti-ivnv/blob/2ca85386ff408db345afdd36155de9442869fba1/assets/download.png" width="25%" align="right" />
 </div>
+
 ## 📞 Contact me:
 
 <div>
