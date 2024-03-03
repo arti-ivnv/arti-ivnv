@@ -15,8 +15,8 @@
 • Graduation date: December 2021<br>
 • Location: Orlando, FL<br>
 <br>
-👨‍💻 <u>Companies I worked at</u><br>
-• <a href="https://ppr.ru/en/">Software Product <-- (Currently)</a> <br>
+👨‍💻 <u>Companies I work(ed) at</u><br>
+• <a href="https://ppr.ru/en/">Software Product</a> <br>
 • <a href="https://en.apkpro.ru/">Academy of the Ministry of Education of Russia</a> <br>
 • <a href="https://iplcompany.ru/">Digitally</a><br>
 • <a href="https://power.mhi.com/">Mitsubishi Power</a><br>
