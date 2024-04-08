@@ -30,8 +30,8 @@
 </pre>
 
 ## 💻 Stats
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65114921c55ba29dca4d0019?variant=dark&roadmaps=backend)](https://roadmap.sh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&theme=dark&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arti-ivnv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-ivnv&langs_count=10&theme=tokyonight&layout=compact)
 
 
 ##
