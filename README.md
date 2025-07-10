@@ -18,8 +18,6 @@
 • <a href="https://www.i-teco.ru/aboutiteco/about_us/">I-teco</a>
 <br>
 💡 <u>Passionate about</u>
-• Java Development
-• C/C++ Development
 • Game Development
 • Embedded Engineering
 • Backend Development
